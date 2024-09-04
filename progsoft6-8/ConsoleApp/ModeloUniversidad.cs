@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp.AlquilerPeliculas
+namespace ConsoleApp.ModeloUniversidad
 {
     public class Estudiantes
     {
