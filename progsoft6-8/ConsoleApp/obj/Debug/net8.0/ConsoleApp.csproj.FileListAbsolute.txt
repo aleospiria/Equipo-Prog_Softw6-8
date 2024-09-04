@@ -1,0 +1,60 @@
+E:\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+E:\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+E:\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+E:\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+E:\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+E:\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+E:\Docente\2024-2\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

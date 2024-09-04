@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\ModeloPeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp\\ModeloPeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\ModeloComplejo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp\\ModeloComplejo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp\\Modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp\\Clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:14.888Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModeloPeliculas.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\ModeloPeliculas.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ModeloPeliculas.cs",
+              "ToolTip": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\ModeloPeliculas.cs",
+              "RelativeToolTip": "ConsoleApp\\ModeloPeliculas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:59:52.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModeloComplejo.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\ModeloComplejo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ModeloComplejo.cs",
+              "ToolTip": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\ModeloComplejo.cs",
+              "RelativeToolTip": "ConsoleApp\\ModeloComplejo.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:59:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modelos.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Modelos.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Modelos.cs",
+              "ToolTip": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Modelos.cs",
+              "RelativeToolTip": "ConsoleApp\\Modelos.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:57:24.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clases.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Clases.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Clases.cs",
+              "ToolTip": "C:\\Users\\salak401\\Desktop\\PS_MieJue_6_8\\ConsoleApp\\Clases.cs",
+              "RelativeToolTip": "ConsoleApp\\Clases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:57:04.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
