@@ -58,3 +58,18 @@ C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\refint\Conso
 C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

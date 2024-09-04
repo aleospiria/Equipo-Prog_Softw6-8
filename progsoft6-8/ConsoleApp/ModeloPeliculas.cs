@@ -6,56 +6,51 @@ namespace ConsoleApp.AlquilerPeliculas
     {
         private string carnet = "" ;
         private int id = 0;
-        private List<string> MateriasEscogidas = new List<string>();
+        private List<string> materiasEscogidas = new List<string>();
         private string nombre = "";
         private string apellido = "";
         private string direccion = "";
         private string celular = "";
         private bool estado = false;
 
-        public string carnet { get; set; };
-        public int id { get; set; };
-        public List<string> MateriasEscogidas { get; set; };
-        public string nombre { get; set; };
-        public string apellido { get; set; };
-        public string dirección { get; set; };
-        public string celular { get; set; };
-        public bool estado { get; set; };
-
-
+        public string Carnet { get => this.carnet; set => this.carnet = value; }
+        public int Id { get => this.id; set => this.id= value; }
+        public List<string> MateriasEscogidas { get => this.materiasEscogidas; set => this.materiasEscogidas= value; }
+        public string Nombre { get => this.nombre; set => this.nombre= value; }
+        public string Apellido { get => this.apellido; set => this.apellido= value; }
+        public string Direccion { get => this.direccion; set => this.direccion= value; }
+        public string Celular { get => this.celular; set => this.celular= value; }
+        public bool Estado { get => this.estado; set => this.estado= value; }
     }
 
     public class Profesores
     {
         private int id = 0;
-        private List<string> NombMaterias = new List<string>();
+        private List<string> nombMaterias = new List<string>();
         private string nombre = "";
         private string apellido = "";
         private string direccion = "";
         private string cel = "";
 
-        public int id { get; set; };
-        public List<string> NombMaterias { get; set; };
-        public string nombre { get; set; };
-        public string apellido { get; set; };
-        public string direccion { get; set; };
-        public string cel { get; set; };
-
-
-
+        public string Id { get => this.id; set => this.id= value; }
+        public List<string> NombMaterias { get => this.nombMaterias; set => this.nombMaterias= value; }
+        public string Nombre { get => this.nombre; set => this.nombre= value; }
+        public string Apellido { get => this.apellido; set => this.apellido= value; }
+        public string Direccion { get => this.direccion; set => this.direccion= value; }
+        public string Cel { get => this.cel; set => this.cel= value; }
     }
 
     public class Grupos
     {
         private int id = 0;
-        private string nombreMateria = "";
+        private Materias? materia = null;
         private int capacidad = 0;
-        private string numSalon = "";
+        private Salones? numSalon = null;
 
-        public int id { get; set; };
-        public string nombreMateria { get; set; };
-        public int capacidad{ get; set; };
-        public string numSalon { get; set; };
+        public string Id { get => this.id; set => this.id = value; }
+        public Materias? Materia { get => this.materia; set => this.materia= value; }
+        public int Capacidad { get => this.capacidad; set => this.capacidad = value; }
+        public Salones? NumSalon { get => this.numSalon; set => this.numSalon = value; }
 
     }
 
@@ -64,12 +59,10 @@ namespace ConsoleApp.AlquilerPeliculas
         private int id = 0;
         private string nombre = "";
         private string facultad = "";
-        //private Tipos? tipo = null;
 
-        public int id { get; set; };
-        public string nombre { get; set; };
-        public string facultad { get; set; };
-        //public Tipos? Tipo { get => this.tipo; set => this.tipo = value; }
+        public int Id { get => this.id; set => this.id= value; }
+        public string Nombre { get => this.nombre; set => this.nombre = value; }
+        public string Facultad { get => this.facultad; set => this.facultad = value; }
     }
 
     public class Salones
@@ -77,17 +70,18 @@ namespace ConsoleApp.AlquilerPeliculas
         private string id = "";
         private string tipoSalon = "";
 
-        public string id { get; set; };
-        public string tipoSalon { get; set; };
+        public string Id { get => this.id; set => this.id= value; }
+        public string TipoSalon { get => this.tipoSalon; set => this.tipoSalon = value; }
 
 
     }
 
     public class SalonesGrupos
     {
-        private string id = "";
-        private string numSalon = "";
+        private Grupos? id = null;
+        private Salones? numSalon = null;
 
-       
+        public Grupos? Id { get => this.id; set => this.id= value; }
+        public Salones? NumSalon { get => this.numSalon; set => this.numSalon = value; }
     }
 }

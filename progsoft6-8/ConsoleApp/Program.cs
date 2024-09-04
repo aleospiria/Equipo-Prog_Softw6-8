@@ -26,6 +26,9 @@ IImpuestos iImpuestos2 = new Productos(1, "203", "TV", 1400000, 1);
 IImpuestos iImpuestos3 = (IImpuestos)(producto);
 iImpuestos.CalcularValor();
 
+Console.WriteLine("Presione una tecla para salir: ");
+Console.ReadLine();
+
 public abstract class AProductosBase
 {
     // Variables
