@@ -1,6 +1,8 @@
-﻿using ConsoleApp.Definicion;
-using ConsoleApp.Entidades;
+﻿using ConsoleApp.Clases.Definicion;
+using ConsoleApp.Clases.Entidades;
+using ConsoleApp.Conexion;
 
+/*
 var clases = new Clases();
 clases.Ejecutar();
 
@@ -10,105 +12,14 @@ modelo.Ejecutar();
 var modeloComplejo = new ModeloComplejo();
 modeloComplejo.Ejecutar();
 
+var conexion = new ConexionBasica();
+conexion.NonQueryPeliculas();
+conexion.ObtenerPeliculas_Procedimiento();
+*/
 
-Productos producto = new Productos(1, "203", "TV", 1400000, 1);
-producto.CalcularDescuento();
-producto.CalcularValor();
-Console.WriteLine(producto.GetNombre());
+var conexionEF = new ConsoleApp.Conexion.ConexionEF();
+//conexionEF.NonQueryPeliculas();
+conexionEF.ObtenerPeliculas();
 
-AProductosBase aProductosBase = producto;
-AProductosBase aProductosBase2 = new Productos(1, "203", "TV", 1400000, 1);
-AProductosBase aProductosBase3 = (AProductosBase)(producto);
-aProductosBase.CalcularDescuento();
-
-IImpuestos iImpuestos = producto;
-IImpuestos iImpuestos2 = new Productos(1, "203", "TV", 1400000, 1);
-IImpuestos iImpuestos3 = (IImpuestos)(producto);
-iImpuestos.CalcularValor();
-
-Console.WriteLine("Presione una tecla para salir: ");
-Console.ReadLine();
-
-public abstract class AProductosBase
-{
-    // Variables
-    protected int id = 0;
-    protected string codigo = "";
-    protected string nombre = "";
-    protected double precio = 0.0;
-    protected double cantidad = 0.0;
-
-    // Constructor
-    public AProductosBase() { }
-    public AProductosBase(int id, string codigo, string nombre, 
-        double precio, double cantidad) 
-    { 
-        this.id = id;
-        this.codigo = codigo;
-        this.nombre = nombre;
-        this.precio = precio;
-        this.cantidad = cantidad;
-    }
-
-    // Propiedades
-    public void SetId(int valor) { this.id = valor; }
-    public int GetId() { return this.id; }
-    public void SetCodigo(string valor) { this.codigo = valor; }
-    public string GetCodigo() { return this.codigo; }
-    public void SetNombre(string valor) { this.nombre = valor; }
-    public string GetNombre() { return this.nombre; }
-    public void SetPrecio(double valor) { this.precio = valor; }
-    public double GetPrecio() { return this.precio; }
-    public void SetCantidad(double valor) { this.cantidad = valor; }
-    public double GetCantidad() { return this.cantidad; }
-
-    public abstract void CalcularDescuento();
-}
-
-public interface IImpuestos
-{
-    void CalcularValor();
-}
-
-public class Productos : AProductosBase, IImpuestos
-{
-    // Constructor
-    public Productos() : base() { }
-    public Productos(int id, string codigo, string nombre, 
-        double precio, double cantidad) : base(id, codigo, nombre, precio, cantidad) { }
-
-    // Metodos
-    public void CalcularValor()
-    {
-        var calculo = (this.cantidad * this.precio) - 100;
-    }
-
-    public override void CalcularDescuento()
-    {
-        
-    }
-}
-
-
-public class Productos1 : AProductosBase, IImpuestos
-{
-    // Variables
-    protected double descuento = 0.0;
-
-    // Constructor
-    public Productos1()
-    {
-
-    }
-
-    // Metodos
-    public void CalcularValor()
-    {
-        var calculo = this.cantidad * this.precio;
-    }
-
-    public override void CalcularDescuento()
-    {
-        
-    }
-}
+var conexionPro = new ConsoleApp.Proyecto.ConexionEF();
+  conexionPro.ObtenerEstudiantes();

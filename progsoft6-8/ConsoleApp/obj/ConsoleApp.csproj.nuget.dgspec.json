@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Docente\\Programación de software\\Git\\PS_MieJue_6_8\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\PS_MieJue_6_8\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "E:\\Docente\\Programación de software\\Git\\PS_MieJue_6_8\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\PS_MieJue_6_8\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Docente\\Programación de software\\Git\\PS_MieJue_6_8\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\PS_MieJue_6_8\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "E:\\Docente\\Programación de software\\Git\\PS_MieJue_6_8\\ConsoleApp\\ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\AA\\.nuget\\packages\\",
-        "outputPath": "E:\\Docente\\Programación de software\\Git\\PS_MieJue_6_8\\ConsoleApp\\obj\\",
+        "projectPath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\PS_MieJue_6_8\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\PS_MieJue_6_8\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -65,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

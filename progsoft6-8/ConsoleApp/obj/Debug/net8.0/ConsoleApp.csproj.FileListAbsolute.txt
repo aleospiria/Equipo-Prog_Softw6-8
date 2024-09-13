@@ -43,33 +43,213 @@ E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8
 E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
-C:\Users\salak401\Desktop\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
-C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
-C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
-C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
-C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
-C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
-C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Azure.Identity.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Humanizer.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.CodeDom.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Docente\Programación de software\Git\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Humanizer.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PS_MieJue_6_8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Humanizer.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\Equipo-Prog_Softw6-8\progsoft6-8\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

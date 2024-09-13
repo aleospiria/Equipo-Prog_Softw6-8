@@ -32,7 +32,7 @@ namespace ConsoleApp.ModeloUniversidad
         private string direccion = "";
         private string cel = "";
 
-        public string Id { get => this.id; set => this.id= value; }
+        public int Id { get => this.id; set => this.id= value; }
         public List<Materias?> NombMaterias { get => this.nombMaterias; set => this.nombMaterias= value; }
         public string Nombre { get => this.nombre; set => this.nombre= value; }
         public string Apellido { get => this.apellido; set => this.apellido= value; }
@@ -47,7 +47,7 @@ namespace ConsoleApp.ModeloUniversidad
         private int capacidad = 0;
         private Salones? numSalon = null;
 
-        public string Id { get => this.id; set => this.id = value; }
+        public int Id { get => this.id; set => this.id = value; }
         public Materias? Materia { get => this.materia; set => this.materia= value; }
         public int Capacidad { get => this.capacidad; set => this.capacidad = value; }
         public Salones? NumSalon { get => this.numSalon; set => this.numSalon = value; }
