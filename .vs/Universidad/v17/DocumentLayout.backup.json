@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43516130-CE22-4F1E-B860-536BC8780D77}|lib_utilidades\\lib_utilidades.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43516130-CE22-4F1E-B860-536BC8780D77}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\asp_servicios\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|solutionrelative:asp_servicios\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00344C0-7F25-4921-A5C0-5FDC6DEC165F}|lib_entidades\\lib_entidades.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_entidades\\modelos\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00344C0-7F25-4921-A5C0-5FDC6DEC165F}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\modelos\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_utilidades\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_utilidades\\DatosGenerales.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_utilidades\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_utilidades\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:21:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsignaturasController.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\AsignaturasController.cs",
+              "RelativeDocumentMoniker": "asp_Servicios\\Controllers\\AsignaturasController.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\AsignaturasController.cs",
+              "RelativeToolTip": "asp_Servicios\\Controllers\\AsignaturasController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:52:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profesores.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_entidades\\Modelos\\Profesores.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Modelos\\Profesores.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_entidades\\Modelos\\Profesores.cs",
+              "RelativeToolTip": "lib_entidades\\Modelos\\Profesores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:48:34.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

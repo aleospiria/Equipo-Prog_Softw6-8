@@ -1,0 +1,95 @@
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.sourcelink.json
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.sourcelink.json
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_entidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_entidades.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.sourcelink.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll

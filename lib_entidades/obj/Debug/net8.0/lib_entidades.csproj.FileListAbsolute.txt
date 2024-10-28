@@ -1,0 +1,77 @@
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.sourcelink.json
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\manue\OneDrive\Documentos\Programacion-de-software\PjCatalogo\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.sourcelink.json
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\User\Documents\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoCatalogo\Catalogo\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\PROYECTOS EQUIPO\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.AssemblyReference.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.sourcelink.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
