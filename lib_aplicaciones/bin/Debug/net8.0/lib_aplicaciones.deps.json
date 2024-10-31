@@ -565,10 +565,7 @@
           "Microsoft.EntityFrameworkCore": "8.0.8"
         },
         "runtime": {
-          "lib_entidades.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "lib_entidades.dll": {}
         }
       },
       "lib_repositorios/1.0.0": {
@@ -577,10 +574,7 @@
           "lib_entidades": "1.0.0"
         },
         "runtime": {
-          "lib_repositorios.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "lib_repositorios.dll": {}
         }
       }
     }

@@ -16,3 +16,21 @@ C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_aplicaciones\obj\Debug\net8.0\refint\lib_aplicaciones.dll
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.pdb
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_aplicaciones\obj\Debug\net8.0\ref\lib_aplicaciones.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\bin\Debug\net8.0\lib_aplicaciones.deps.json
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\bin\Debug\net8.0\lib_aplicaciones.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\bin\Debug\net8.0\lib_aplicaciones.pdb
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.csproj.AssemblyReference.cache
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.AssemblyInfoInputs.cache
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.AssemblyInfo.cs
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.sourcelink.json
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.csproj.CopyComplete
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\refint\lib_aplicaciones.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.pdb
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\lib_aplicaciones\obj\Debug\net8.0\ref\lib_aplicaciones.dll

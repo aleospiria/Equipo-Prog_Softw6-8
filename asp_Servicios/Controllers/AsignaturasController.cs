@@ -13,11 +13,12 @@ namespace asp_Servicios.Controllers
     {
 
         private IAsignaturasAplicacion? IAplicacion = null;
+        private TokenController? tokenController = null;
 
         public AsignaturasController()
         {
             var conexion = new Conexion();
-            conexion.StringConnection = "server=EVILCC\\ACOSTA;database=db_notas;uid=dba;pwd=1234abcd;TrustServerCertificate=true;";
+            conexion.StringConnection = "Server=salak403-39;Database=bd_univer;Integrated Security=True;";
             IAplicacion = new AsignaturasAplicacion(new AsignaturasRepositorio(conexion));
 
 

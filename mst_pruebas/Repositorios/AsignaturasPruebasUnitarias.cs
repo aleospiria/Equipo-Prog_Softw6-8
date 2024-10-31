@@ -30,8 +30,8 @@ namespace mst_pruebas.Repositorios
         {
             entidad = new Asignaturas()
             {
-                NombreAsignatura = "Prueba",
-                Duracion = "tiempo prueba"
+                Nombre = "Prueba",
+                Semestre = 20232
             };
             entidad = iRepositorio!.Guardar(entidad);
             Assert.IsTrue(entidad.Id != 0);

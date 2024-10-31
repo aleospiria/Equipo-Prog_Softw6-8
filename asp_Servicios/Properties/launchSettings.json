@@ -5,7 +5,7 @@
       "launchBrowser": true,
       "launchUrl": "",
       "dotnetRunMessages": true,
-      "applicationUrl": "http://localhost:5121"
+      "applicationUrl": "http://localhost:5141"
     },
     "IIS Express": {
       "commandName": "IISExpress",
@@ -21,7 +21,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:57657",
+      "applicationUrl": "http://localhost:5141",
       "sslPort": 0
     }
   }

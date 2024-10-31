@@ -981,3 +981,13 @@ C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\mst_pruebas\obj\Debug\net8.0\mst_pruebas.pdb
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\mst_pruebas\obj\Debug\net8.0\mst_pruebas.genruntimeconfig.cache
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\mst_pruebas\obj\Debug\net8.0\ref\mst_pruebas.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\bin\Debug\net8.0\CoverletSourceRootsMapping_mst_pruebas
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\mst_pruebas.csproj.AssemblyReference.cache
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\mst_pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\mst_pruebas.AssemblyInfoInputs.cache
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\mst_pruebas.AssemblyInfo.cs
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\mst_pruebas.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\mst_pruebas.sourcelink.json
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\mst_pruebas.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\refint\mst_pruebas.dll
+C:\Users\salak403\Desktop\proyecto\Equipo-Prog_Softw6-8\mst_pruebas\obj\Debug\net8.0\mst_pruebas.pdb

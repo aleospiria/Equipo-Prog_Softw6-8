@@ -3772,23 +3772,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luis E. Acosta\\.nuget\\packages\\": {},
+    "C:\\Users\\salak403\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\mst_pruebas\\mst_pruebas.csproj",
+      "projectUniqueName": "C:\\Users\\salak403\\Desktop\\proyecto\\Equipo-Prog_Softw6-8\\mst_pruebas\\mst_pruebas.csproj",
       "projectName": "mst_pruebas",
-      "projectPath": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\mst_pruebas\\mst_pruebas.csproj",
-      "packagesPath": "C:\\Users\\Luis E. Acosta\\.nuget\\packages\\",
-      "outputPath": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\mst_pruebas\\obj\\",
+      "projectPath": "C:\\Users\\salak403\\Desktop\\proyecto\\Equipo-Prog_Softw6-8\\mst_pruebas\\mst_pruebas.csproj",
+      "packagesPath": "C:\\Users\\salak403\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\salak403\\Desktop\\proyecto\\Equipo-Prog_Softw6-8\\mst_pruebas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Luis E. Acosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\salak403\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3804,11 +3804,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_entidades\\lib_entidades.csproj": {
-              "projectPath": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_entidades\\lib_entidades.csproj"
+            "C:\\Users\\salak403\\Desktop\\proyecto\\Equipo-Prog_Softw6-8\\lib_entidades\\lib_entidades.csproj": {
+              "projectPath": "C:\\Users\\salak403\\Desktop\\proyecto\\Equipo-Prog_Softw6-8\\lib_entidades\\lib_entidades.csproj"
             },
-            "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_repositorios\\lib_repositorios.csproj": {
-              "projectPath": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_repositorios\\lib_repositorios.csproj"
+            "C:\\Users\\salak403\\Desktop\\proyecto\\Equipo-Prog_Softw6-8\\lib_repositorios\\lib_repositorios.csproj": {
+              "projectPath": "C:\\Users\\salak403\\Desktop\\proyecto\\Equipo-Prog_Softw6-8\\lib_repositorios\\lib_repositorios.csproj"
             }
           }
         }
@@ -3817,11 +3817,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3861,7 +3856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

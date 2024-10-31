@@ -30,8 +30,8 @@ namespace mst_pruebas.Repositorios
             entidad = new Cursos()
             {
                 Id = 2,
-                NombreCurso = "Primeros auxilios",
-                Creditos = 4
+                Nombre = "Primeros auxilios",
+                Descripcion = "asdfad"
             };
             entidad = iRepositorio!.Guardar(entidad);
             Assert.IsTrue(entidad.Id != 0);
@@ -48,7 +48,7 @@ namespace mst_pruebas.Repositorios
         }
         private void Modificar()
         {
-            entidad!.Creditos = 2;
+            entidad!.Nombre = "Veterinaria auxiliar";
             entidad = iRepositorio!.Modificar(entidad);
             var lista = iRepositorio!.Buscar(x => x.Id == entidad!.Id);
             Assert.IsTrue(lista.Count > 0);

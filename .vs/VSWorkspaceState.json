@@ -2,11 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\lib_entidades",
-    "\\lib_repositorios\\Implementaciones",
-    "\\lib_repositorios\\Interfaces",
-    "\\mst_pruebas",
+    "\\lib_utilidades",
     "\\mst_pruebas\\Repositorios"
   ],
-  "SelectedNode": "\\Universidad.sln",
+  "SelectedNode": "\\lib_utilidades\\DatosGenerales.cs",
   "PreviewInSolutionExplorer": false
 }
