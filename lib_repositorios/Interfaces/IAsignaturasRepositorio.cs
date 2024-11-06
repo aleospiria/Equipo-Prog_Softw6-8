@@ -10,5 +10,6 @@ namespace lib_repositorios.Interfaces
         Asignaturas Guardar(Asignaturas entidad);
         Asignaturas Modificar(Asignaturas entidad);
         Asignaturas Borrar(Asignaturas entidad);
+        void Configurar(string string_conexion);
     }
 }

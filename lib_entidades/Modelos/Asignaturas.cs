@@ -9,8 +9,6 @@ namespace lib_entidades.Modelos
         public string Nombre { get; set; }
         public string Codigo { get; set; }
         public int Semestre { get; set; }
-        public int DepartamentoId { get; set; }
-        public int? ProfesorId {get; set; }
 
         public Departamentos Departamentos {get; set; }
         public Profesores? Profesores { get; set; }  

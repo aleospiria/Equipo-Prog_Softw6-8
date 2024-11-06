@@ -1,12 +1,244 @@
 [
   {
     "ContainingType": "asp_Servicios.Controllers.AsignaturasController",
-    "Method": "Get",
-    "RelativePath": "Asignaturas/Get",
+    "Method": "Borrar",
+    "RelativePath": "Asignaturas/Borrar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "lib_entidades.Modelos.Asignaturas",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "asp_Servicios.Controllers.AsignaturasController",
+    "Method": "Buscar",
+    "RelativePath": "Asignaturas/Buscar/buscar",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Semestre",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Descipcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Facultades.Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Facultades.Nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Facultades.Telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Facultades.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Facultades.Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Facultades.Decano",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Facultades._Departamento",
+        "Type": "System.Collections.Generic.ICollection\u00601[[lib_entidades.Modelos.Departamentos, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Asignaturas",
+        "Type": "System.Collections.Generic.ICollection\u00601[[lib_entidades.Modelos.Asignaturas, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamentos.Profesores",
+        "Type": "System.Collections.Generic.ICollection\u00601[[lib_entidades.Modelos.Profesores, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Nombres",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Apellidos",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Contacto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.FechaContratacion",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Salario",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Descipcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Facultades.Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Facultades.Nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Facultades.Telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Facultades.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Facultades.Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Facultades.Decano",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Facultades._Departamento",
+        "Type": "System.Collections.Generic.ICollection\u00601[[lib_entidades.Modelos.Departamentos, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Asignaturas",
+        "Type": "System.Collections.Generic.ICollection\u00601[[lib_entidades.Modelos.Asignaturas, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Departamentos.Profesores",
+        "Type": "System.Collections.Generic.ICollection\u00601[[lib_entidades.Modelos.Profesores, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profesores.Asignaturas",
+        "Type": "System.Collections.Generic.ICollection\u00601[[lib_entidades.Modelos.Asignaturas, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Cursos",
+        "Type": "System.Collections.Generic.ICollection\u00601[[lib_entidades.Modelos.Cursos, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "tipo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[lib_entidades.Modelos.Asignaturas, lib_entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
@@ -20,16 +252,22 @@
     ]
   },
   {
-    "ContainingType": "asp_Servicios.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "asp_Servicios.Controllers.AsignaturasController",
+    "Method": "GetById",
+    "RelativePath": "Asignaturas/GetById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[asp_Servicios.WeatherForecast, asp_Servicios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "lib_entidades.Modelos.Asignaturas",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -37,7 +275,103 @@
         ],
         "StatusCode": 200
       }
+    ]
+  },
+  {
+    "ContainingType": "asp_Servicios.Controllers.AsignaturasController",
+    "Method": "Guardar",
+    "RelativePath": "Asignaturas/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entidad",
+        "Type": "lib_entidades.Modelos.Asignaturas",
+        "IsRequired": true
+      }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": [
+      {
+        "Type": "lib_entidades.Modelos.Asignaturas",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "asp_Servicios.Controllers.AsignaturasController",
+    "Method": "Listar",
+    "RelativePath": "Asignaturas/Listar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "asp_Servicios.Controllers.AsignaturasController",
+    "Method": "Modificar",
+    "RelativePath": "Asignaturas/Modificar/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "entidad",
+        "Type": "lib_entidades.Modelos.Asignaturas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "lib_entidades.Modelos.Asignaturas",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "asp_Servicios.Controllers.TokenController",
+    "Method": "Autenticar",
+    "RelativePath": "Token/Autenticar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

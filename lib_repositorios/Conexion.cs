@@ -1,27 +1,50 @@
 ﻿using lib_entidades.Modelos;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System.Linq.Expressions;
 
 namespace lib_repositorios
 {
-    public class Conexion : DbContext
+    public partial class Conexion : DbContext
     {
+        //private readonly IConfiguration _configuration;
+
         public string? StringConnection { get; set; }
-        
+
+        //public Conexion(DbContextOptions<Conexion> options, IConfiguration configuration) : base(options)
+        //{
+        //    _configuration = configuration;
+        //}
+
+            protected DbSet<Profesores>? Profesores { get; set; }
+            protected DbSet<Estudiantes>? Estudiantes { get; set; }
+            protected DbSet<Cursos>? Cursos { get; set; }
+            protected DbSet<Asignaturas>? Asignaturas { get; set; }
+            protected DbSet<Departamentos>? Departamentos { get; set; }
+            protected DbSet<Facultades>? Facultades { get; set; }
+
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+
             optionsBuilder.UseSqlServer(this.StringConnection!, p => { });
             optionsBuilder.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
-            
+
         }
 
-        protected DbSet<Profesores>? Profesores { get; set; }
-        protected DbSet<Estudiantes>? Estudiantes { get; set; }
-        protected DbSet<Asignaturas>? Asignaturas { get; set; }
-        protected DbSet<Facultades>? Facultades { get; set; }
-        protected DbSet<Departamentos>? Departamentos { get; set; }
-        protected DbSet<Cursos>? Cursos { get; set; }
-        
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    if (!optionsBuilder.IsConfigured)
+        //    {
+        //        var connectionString = _configuration.GetConnectionString("StringConnection");
+        //        optionsBuilder.UseSqlServer(connectionString);
+        //    }
+        //    optionsBuilder.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
+
+        //}
+
+
         public virtual DbSet<T> ObtenerSet<T>() where T : class, new()
         {
             return this.Set<T>();

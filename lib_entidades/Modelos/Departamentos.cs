@@ -10,7 +10,7 @@ namespace lib_entidades.Modelos
         public string Descipcion { get; set; }
         public string Telefono { get; set; }
         public string Email { get; set; }
-        public int FacultadId { get; set; }
+        
 
         public Facultades Facultades { get; set; }
         public ICollection<Asignaturas>? Asignaturas { get; set; }

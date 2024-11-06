@@ -93,3 +93,5 @@ C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
 C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\bin\Debug\net8.0\lib_repositorios.runtimeconfig.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_repositorios\obj\Debug\net8.0\lib_repositorios.genruntimeconfig.cache

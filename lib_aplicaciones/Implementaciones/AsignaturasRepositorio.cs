@@ -14,10 +14,14 @@ namespace lib_aplicaciones.Implementaciones
     {
 
         private IAsignaturasRepositorio? iRepositorio = null;
-        public AsignaturasAplicacion(IAsignaturasRepositorio
-        iRepositorio)
+        public AsignaturasAplicacion(IAsignaturasRepositorio iRepositorio)
         {
             this.iRepositorio = iRepositorio;
+        }
+
+        public void Configurar(string string_conexion)
+        {
+            this.iRepositorio!.Configurar(string_conexion);
         }
         public Asignaturas Borrar(Asignaturas entidad)
         {
@@ -52,12 +56,22 @@ namespace lib_aplicaciones.Implementaciones
                 case "Codigo Asignatura":
                     condiciones = x =>
                 x.Codigo!.Contains(entidad.Codigo!); break;
+                case "Nombre Asignatura":
+                    condiciones = x => x.Nombre!.Contains(entidad.Nombre!);
+                    break;
                 default:
                     condiciones = x => x.Id ==
                 entidad.Id; break;
             }
             return this.iRepositorio!.Buscar(condiciones);
         }
+
+        public Asignaturas BuscarId(int id)
+        {
+            Expression<Func<Asignaturas, bool>> condicion =x => x.Id == id;
+            return this.iRepositorio!.Buscar(condicion).FirstOrDefault();
+        }
+
         public Asignaturas Modificar(Asignaturas entidad)
         {
             if (entidad == null)

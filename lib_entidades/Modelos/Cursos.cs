@@ -9,7 +9,6 @@ namespace lib_entidades.Modelos
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
         public DateTime Fecha_Inicio { get; set; }
-        public int FacultadId { get; set; }
 
 
         public Facultades Facultades { get; set; }

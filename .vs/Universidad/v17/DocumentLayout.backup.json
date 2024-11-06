@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{43516130-CE22-4F1E-B860-536BC8780D77}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7D4D4B9C-EDAF-4533-9CC1-D7F67FD1084C}|lib_repositorios\\lib_repositorios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_repositorios\\interfaces\\iasignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4D4B9C-EDAF-4533-9CC1-D7F67FD1084C}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iasignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4D4B9C-EDAF-4533-9CC1-D7F67FD1084C}|lib_repositorios\\lib_repositorios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_repositorios\\implementaciones\\asignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4D4B9C-EDAF-4533-9CC1-D7F67FD1084C}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\asignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF766BB-DBB4-4395-BCC8-C42617AEF4BA}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_aplicaciones\\interfaces\\iasignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF766BB-DBB4-4395-BCC8-C42617AEF4BA}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iasignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF766BB-DBB4-4395-BCC8-C42617AEF4BA}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_aplicaciones\\implementaciones\\asignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF766BB-DBB4-4395-BCC8-C42617AEF4BA}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\asignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\asp_servicios\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|solutionrelative:asp_servicios\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F00344C0-7F25-4921-A5C0-5FDC6DEC165F}|lib_entidades\\lib_entidades.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_entidades\\modelos\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00344C0-7F25-4921-A5C0-5FDC6DEC165F}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\modelos\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +38,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAsignaturasRepositorio.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_repositorios\\Interfaces\\IAsignaturasRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IAsignaturasRepositorio.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_repositorios\\Interfaces\\IAsignaturasRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IAsignaturasRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:56:13.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsignaturasRepositorio.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_aplicaciones\\Implementaciones\\AsignaturasRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\AsignaturasRepositorio.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_aplicaciones\\Implementaciones\\AsignaturasRepositorio.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AsignaturasRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:49:55.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsignaturasController.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\AsignaturasController.cs",
+              "RelativeDocumentMoniker": "asp_Servicios\\Controllers\\AsignaturasController.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\AsignaturasController.cs",
+              "RelativeToolTip": "asp_Servicios\\Controllers\\AsignaturasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:15:45.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAsignaturasAplicacion.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:48:25.454Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,39 +104,35 @@
               "RelativeDocumentMoniker": "lib_utilidades\\DatosGenerales.cs",
               "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_utilidades\\DatosGenerales.cs",
               "RelativeToolTip": "lib_utilidades\\DatosGenerales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T20:21:01.625Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AsignaturasController.cs",
-              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\AsignaturasController.cs",
-              "RelativeDocumentMoniker": "asp_Servicios\\Controllers\\AsignaturasController.cs",
-              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\AsignaturasController.cs",
-              "RelativeToolTip": "asp_Servicios\\Controllers\\AsignaturasController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AsignaturasRepositorio.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_repositorios\\Implementaciones\\AsignaturasRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\AsignaturasRepositorio.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_repositorios\\Implementaciones\\AsignaturasRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\AsignaturasRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:52:18.957Z",
+              "WhenOpened": "2024-11-04T07:56:55.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Profesores.cs",
-              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_entidades\\Modelos\\Profesores.cs",
-              "RelativeDocumentMoniker": "lib_entidades\\Modelos\\Profesores.cs",
-              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_entidades\\Modelos\\Profesores.cs",
-              "RelativeToolTip": "lib_entidades\\Modelos\\Profesores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Program.cs",
+              "RelativeDocumentMoniker": "asp_Servicios\\Program.cs",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Program.cs",
+              "RelativeToolTip": "asp_Servicios\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:48:34.382Z",
+              "WhenOpened": "2024-11-04T08:19:11.839Z",
               "EditorCaption": ""
             }
           ]

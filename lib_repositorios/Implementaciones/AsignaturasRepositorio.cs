@@ -1,19 +1,23 @@
 ﻿using lib_entidades.Modelos;
 using lib_repositorios.Interfaces;
 using System.Linq.Expressions;
+using static lib_repositorios.Implementaciones.AsignaturasRepositorio;
 
 namespace lib_repositorios.Implementaciones
 {
     public class AsignaturasRepositorio : IAsignaturasRepositorio
     {
-        private Conexion? conexion = null;
-
-        public AsignaturasRepositorio(Conexion conexion)
-        {
-            this.conexion = conexion;
+          private Conexion? conexion = null;
+          public AsignaturasRepositorio(Conexion conexion)
+          {
+                this.conexion = conexion;
+           }
+          public void Configurar(string string_conexion)
+         {
+         this.conexion!.StringConnection = string_conexion;
         }
 
-        public List<Asignaturas> Listar()
+            public List<Asignaturas> Listar()
         {
             return conexion!.Listar<Asignaturas>();
         }

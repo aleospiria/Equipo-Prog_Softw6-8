@@ -1,0 +1,13 @@
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\bin\Debug\net8.0\lib_utilidades.deps.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\bin\Debug\net8.0\lib_utilidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\bin\Debug\net8.0\lib_utilidades.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\lib_utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\lib_utilidades.AssemblyInfoInputs.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\lib_utilidades.AssemblyInfo.cs
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\lib_utilidades.csproj.CoreCompileInputs.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\lib_utilidades.sourcelink.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\lib_utilidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\refint\lib_utilidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\lib_utilidades.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\ref\lib_utilidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_utilidades\obj\Debug\net8.0\lib_utilidades.csproj.AssemblyReference.cache
