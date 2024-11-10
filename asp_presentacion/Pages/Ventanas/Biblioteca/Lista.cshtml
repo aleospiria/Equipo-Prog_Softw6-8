@@ -1,0 +1,71 @@
+﻿
+<div class="containers_vn panel panel-default">
+    <table class="tb_data table table-striped table-bordered table-hover">
+        <tr>
+            <th>
+                Codigo
+            </th>
+            <th class="cl_hidden">
+                Direccion
+            </th>
+            <th class="cl_hidden">
+                Nombre
+            </th>
+            <th>
+                Cantidad de estudiantes
+            </th>
+            <th>
+                Cantidad de profesores
+            </th>
+            <th>
+                Cantidad de carreras
+            </th>
+            <th>
+                Descripcion
+            </th>
+        </tr>
+        @if (Model != null && Model.Lista != null)
+        {
+            @foreach (var elemento in Model.Lista)
+            {
+                <tr>
+                    
+                    <td>
+                        @elemento.Nombre
+                    </td>
+                    <td class="cl_hidden">
+                        @elemento.Codigo
+                    </td>
+                    <td class="cl_hidden">
+                        @elemento.Nombre
+                    </td>
+                    <td class="cl_hidden">
+                        @elemento.Cant_est
+                    </td>
+                    <td class="cl_hidden">
+                        @elemento.Cant_profes
+                    </td>
+                    <td class="cl_hidden">
+                        @elemento.Cant_carreras
+                    </td>
+                    <td>
+                        @elemento.Descripcion
+                    </td>
+                    
+                    <td>
+                        <input type="submit"
+                               value="Modicar"
+                               asp-page-handler="BtModificar"
+                               class="btn btn-secondary"
+                               asp-route-data="@elemento.Codigo" />
+                        <input type="submit"
+                               value="Borrar"
+                               asp-page-handler="BtBorrarVal"
+                               class="btn btn-secondary"
+                               asp-route-data="@elemento.Codigo" />
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div>

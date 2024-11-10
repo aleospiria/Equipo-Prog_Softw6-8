@@ -1,0 +1,97 @@
+C:\Users\AA\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.deps.json
+C:\Users\AA\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.dll
+C:\Users\AA\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.pdb
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.dll
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\refint\lib_repositorios.dll
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.pdb
+C:\Users\AA\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\ref\lib_repositorios.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.deps.json
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.pdb
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.pdb
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.pdb
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repo.695687AF.Up2Date
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\refint\lib_repositorios.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.pdb
+C:\Users\salak401\Desktop\hogares\hogares\lib_repositorios\obj\Debug\net6.0\ref\lib_repositorios.dll
+C:\Users\salak403\Downloads\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.deps.json
+C:\Users\salak403\Downloads\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.dll
+C:\Users\salak403\Downloads\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.pdb
+C:\Users\salak403\Downloads\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.dll
+C:\Users\salak403\Downloads\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.dll
+C:\Users\salak403\Downloads\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.pdb
+C:\Users\salak403\Downloads\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.pdb
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CopyComplete
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.dll
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\refint\lib_repositorios.dll
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.pdb
+C:\Users\salak403\Downloads\hogares\lib_repositorios\obj\Debug\net6.0\ref\lib_repositorios.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.deps.json
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.pdb
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.pdb
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.pdb
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CopyComplete
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\refint\lib_repositorios.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.pdb
+C:\Users\salak403\Downloads\hogares\hogares\lib_repositorios\obj\Debug\net6.0\ref\lib_repositorios.dll
+C:\Users\salak401\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.deps.json
+C:\Users\salak401\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.dll
+C:\Users\salak401\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.pdb
+C:\Users\salak401\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.dll
+C:\Users\salak401\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.dll
+C:\Users\salak401\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.pdb
+C:\Users\salak401\Desktop\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.pdb
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repo.695687AF.Up2Date
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.dll
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\refint\lib_repositorios.dll
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.pdb
+C:\Users\salak401\Desktop\hogares\lib_repositorios\obj\Debug\net6.0\ref\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_repositorios.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\bin\Debug\net6.0\lib_utilidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repo.695687AF.Up2Date
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\refint\lib_repositorios.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\lib_repositorios.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_repositorios\obj\Debug\net6.0\ref\lib_repositorios.dll

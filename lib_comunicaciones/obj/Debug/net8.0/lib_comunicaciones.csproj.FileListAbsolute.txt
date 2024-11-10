@@ -1,0 +1,85 @@
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.deps.json
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.dll
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.pdb
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.AssemblyReference.cache
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfoInputs.cache
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfo.cs
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.CopyComplete
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\refint\lib_comunicaciones.dll
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\salak403\Downloads\hogares\lib_comunicaciones\obj\Debug\net8.0\ref\lib_comunicaciones.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.deps.json
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.pdb
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.AssemblyReference.cache
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfo.cs
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comu.F975EA67.Up2Date
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\refint\lib_comunicaciones.dll
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\salak401\Desktop\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\ref\lib_comunicaciones.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.deps.json
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.pdb
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.AssemblyReference.cache
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfoInputs.cache
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfo.cs
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.CopyComplete
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\refint\lib_comunicaciones.dll
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\salak403\Downloads\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\ref\lib_comunicaciones.dll
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.deps.json
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.dll
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.pdb
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.AssemblyReference.cache
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfo.cs
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comu.F975EA67.Up2Date
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\refint\lib_comunicaciones.dll
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\salak401\Desktop\hogares\lib_comunicaciones\obj\Debug\net8.0\ref\lib_comunicaciones.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\bin\Debug\net8.0\lib_utilidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comu.F975EA67.Up2Date
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\refint\lib_comunicaciones.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\lib_comunicaciones.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_comunicaciones\obj\Debug\net8.0\ref\lib_comunicaciones.dll

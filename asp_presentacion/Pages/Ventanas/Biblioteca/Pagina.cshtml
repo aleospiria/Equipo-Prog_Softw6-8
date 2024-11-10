@@ -1,0 +1,86 @@
+﻿@page
+@model asp_presentacion.Pages.Ventanas.Biblioteca.BibliotecaModel
+@{
+}
+<form method="POST"
+      enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+
+    <h2>Ventana de Biblioteca</h2>
+
+    @if (ViewData.ContainsKey("Mensaje"))
+    {
+        @await Html.PartialAsync("../../Emergentes/Mensajes.cshtml")
+        ;
+    }
+
+    <div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Codigo
+            </label>
+            <div class="col-lg-6">
+                <input id="nmCodigo"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Actual!.Codigo" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Nombre
+            </label>
+            <div class="col-lg-6">
+                <input id="nmNombre"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Actual!.Nombre" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Cantidad de estudiantes
+            </label>
+            <div class="col-lg-6">
+                <input id="nmCodigo"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Actual!.Cant_est" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Cantidad de profesores
+            </label>
+            <div class="col-lg-6">
+                <input id="nmCodigo"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Actual!.Cant_profes" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Cantidad de carreras
+            </label>
+            <div class="col-lg-6">
+                <input id="nmCodigo"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Actual!.Cant_carreras" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-lg-4 control-label">
+                Descripcion
+            </label>
+            <div class="col-lg-6">
+                <input id="nmDescripcion"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Actual!.Descripcion" />
+            </div>
+        </div>
+
+        <input type="submit"
+               value="Guardar"
+               asp-page-handler="BtGuardar"
+               class="btn btn-secondary" />
+    </div>
+
+    @await Html.PartialAsync("Lista.cshtml");
+</form>
