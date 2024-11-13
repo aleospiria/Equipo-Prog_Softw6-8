@@ -18,6 +18,13 @@ namespace lib_entidades.Modelos
         [NotMapped] public Profesores? _Profesor { get; set; }
         [NotMapped] public Estudiantes? _Estudiante { get; set; }
 
+        public bool Validar()
+        {
+            if (string.IsNullOrEmpty(NombreCurso) ||
+                Creditos<=0 == null)
+                return false;
+            return true;
+        }
         public void asignarProfesor()
         {
             // contenido del método

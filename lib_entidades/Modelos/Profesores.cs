@@ -11,6 +11,13 @@ namespace lib_entidades.Modelos
         public double Salario { get; set; }
         [NotMapped] public Departamentos? _Departamento { get; set; }
 
+        public bool Validar()
+        {
+            if (string.IsNullOrEmpty(Nombre) ||
+                Salario <= 0 == null)
+                return false;
+            return true;
+        }
         public void asignarCurso()
         {
             //Contenido del metodo

@@ -54,12 +54,12 @@ namespace lib_aplicaciones.Implementaciones
             Expression<Func<Asignaturas, bool>>? condiciones = null;
             switch (tipo.ToUpper())
             {
-                case "NOMBRE": condiciones = x => x.Nombre!.Contains(entidad.Nombre!); break;
-                case "DIRECCION": condiciones = x => x.Direccion!.Contains(entidad.Direccion!); break;
+                case "NOMBRE": condiciones = x => x.NombreAsignatura!.Contains(entidad.NombreAsignatura!); break;
+                case "DURACION": condiciones = x => x.Duracion!.Contains(entidad.Duracion!); break;
                 case "COMPLEJA":
                     condiciones =
-                        x => x.Nombre!.Contains(entidad.Nombre!) ||
-                             x.Direccion!.Contains(entidad.Direccion!); break;
+                        x => x.NombreAsignatura!.Contains(entidad.NombreAsignatura!) ||
+                             x.Duracion!.Contains(entidad.Duracion!); break;
                 default: condiciones = x => x.Id == entidad.Id; break;
             }
             return this.iRepositorio!.Buscar(condiciones);

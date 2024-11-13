@@ -11,6 +11,12 @@ namespace lib_entidades.Modelos
         [NotMapped] public Facultades? Facultad { get; set; }
         [NotMapped] public Cursos? Curso { get; set; }
 
+        public bool Validar()
+        {
+            if (string.IsNullOrEmpty(NombreDepartamento) == null)
+                return false;
+            return true;
+        }
         public void administrarAsignaturas()
         {
             // contenido del método

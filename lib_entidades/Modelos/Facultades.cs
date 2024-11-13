@@ -9,6 +9,12 @@ namespace lib_entidades.Modelos
         public string Nombre { get; set; }
         [NotMapped] public Departamentos? _Departamento { get; set; }
 
+        public bool Validar()
+        {
+            if (string.IsNullOrEmpty(Nombre) == null)
+                return false;
+            return true;
+        }
         public void gestionarDepartamento()
         {
             // contenido del método

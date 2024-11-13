@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace lib_repositorios.Implementaciones
 {
-    public class ProfesoresRepositorio
+    public class ProfesoresRepositorio : IProfesoresRepositorio
     {
         private Conexion? conexion = null;
 

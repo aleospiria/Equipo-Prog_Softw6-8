@@ -1,4 +1,5 @@
 ﻿using lib_entidades.Modelos;
+using lib_repositorios.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace lib_repositorios.Implementaciones
 {
-    public class FacultadesRepositorio
+    public class FacultadesRepositorio : IFacultadesRepositorio
     {
         private Conexion? conexion = null;
 

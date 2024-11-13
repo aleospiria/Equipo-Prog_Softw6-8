@@ -1,4 +1,5 @@
 ﻿using lib_entidades.Modelos;
+using lib_repositorios.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace lib_repositorios.Implementaciones
 {
-    public class DepartamentosRepositorio
+    public class DepartamentosRepositorio : IDepartamentosRepositorio
     {
         private Conexion? conexion = null;
 
