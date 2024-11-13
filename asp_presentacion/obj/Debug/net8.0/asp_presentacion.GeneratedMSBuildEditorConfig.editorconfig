@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = asp_presentacion
 build_property.RootNamespace = asp_presentacion
-build_property.ProjectDir = C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\asp_presentacion\
+build_property.ProjectDir = C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\asp_presentacion\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\asp_presentacion
+build_property.MSBuildProjectDirectory = C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\asp_presentacion
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Emergentes/Mensajes.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Emergentes/Mensajes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1lcmdlbnRlc1xNZW5zYWplcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Error.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Index.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Privacy.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Ventanas/Biblioteca/Lista.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Ventanas/Biblioteca/Lista.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcQmlibGlvdGVjYVxMaXN0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Ventanas/Biblioteca/Pagina.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Ventanas/Biblioteca/Pagina.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcQmlibGlvdGVjYVxQYWdpbmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Ventanas/Universidades.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Ventanas/Universidades.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcVW5pdmVyc2lkYWRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/_ViewImports.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/_ViewStart.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/hogares/hogares/asp_presentacion/Pages/Shared/_Layout.cshtml]
+[C:/Users/alejo/OneDrive/Escritorio/Programacion software/codigos profe/Universidades/Universidades/asp_presentacion/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aeimnrexz7

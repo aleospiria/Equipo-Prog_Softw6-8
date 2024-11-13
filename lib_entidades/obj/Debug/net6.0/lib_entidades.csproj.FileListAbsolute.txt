@@ -65,3 +65,15 @@ C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\h
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_entidades\obj\Debug\net6.0\refint\lib_entidades.dll
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_entidades\obj\Debug\net6.0\lib_entidades.pdb
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_entidades\obj\Debug\net6.0\ref\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\bin\Debug\net6.0\lib_entidades.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\bin\Debug\net6.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\bin\Debug\net6.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\lib_entidades.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\lib_entidades.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\refint\lib_entidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\lib_entidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_entidades\obj\Debug\net6.0\ref\lib_entidades.dll

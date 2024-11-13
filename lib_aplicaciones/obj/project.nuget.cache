@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zJmod0SHLlk=",
+  "dgSpecHash": "Igahi1MGIa0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_aplicaciones\\lib_aplicaciones.csproj",
+  "projectFilePath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\lib_aplicaciones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alejo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\alejo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

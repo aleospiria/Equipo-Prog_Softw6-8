@@ -1,165 +1,269 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\",
+  "WorkspaceRootPath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_entidades\\modelos\\universidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\modelos\\universidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_entidades\\lib_entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\lib_entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\interfaces\\icursosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\icursosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\ventanas\\universidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\universidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\implementaciones\\cursosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\cursosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\ventanas\\biblioteca\\pagina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\biblioteca\\pagina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\implementaciones\\asignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\asignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\ventanas\\biblioteca\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\biblioteca\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\implementaciones\\cursosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\cursosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\controllers\\universidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\universidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\interfaces\\iasignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iasignaturasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\ventanas\\biblioteca\\pagina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\biblioteca\\pagina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\implementaciones\\profesoresaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\profesoresaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\implementaciones\\universidadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\universidadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_aplicaciones\\implementaciones\\universidadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\implementaciones\\universidadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\universidadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\interfaces\\ifacultadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\ifacultadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\interfaces\\iprofesoresaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iprofesoresaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\jsonconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\jsonconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\emergentes\\mensajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\emergentes\\mensajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\enumerables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\enumerables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\encriptarconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\encriptarconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\implementaciones\\universidadescomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\implementaciones\\universidadescomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\interfaces\\iuniversidadespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\iuniversidadespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\implementaciones\\universidadespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\universidadespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_aplicaciones\\interfaces\\iuniversidadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\interfaces\\iuniversidadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iuniversidadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\implementaciones\\profesoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\profesoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\pages\\ventanas\\universidades.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\universidades.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\implementaciones\\universidadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\universidadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\interfaces\\iuniversidadescomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\interfaces\\iuniversidadescomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\interfaces\\iprofesoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iprofesoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\lib_presentaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\lib_presentaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\interfaces\\iuniversidadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\interfaces\\iuniversidadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iuniversidadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_servicios\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_entidades\\modelos\\universidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\modelos\\universidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_entidades\\modelos\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\modelos\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\interfaces\\idepartamentosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\idepartamentosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\interfaces\\iestudiantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iestudiantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\interfaces\\ifacultadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ifacultadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\implementaciones\\facultadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\facultadesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\implementaciones\\estudiantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\estudiantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\interfaces\\iestudiantesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iestudiantesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\interfaces\\idepartamentosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\idepartamentosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\interfaces\\icursosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\icursosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\interfaces\\iasignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iasignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\implementaciones\\facultadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\facultadesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\implementaciones\\estudiantesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\estudiantesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\implementaciones\\departamentosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\departamentosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_aplicaciones\\implementaciones\\asignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B7545-6BF4-4124-ACF5-AD046F539DC4}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\asignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\implementaciones\\departamentosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\departamentosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_utilidades\\jsonconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\jsonconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_utilidades\\enumerables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\enumerables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_utilidades\\encriptarconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\encriptarconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{EFE3F4EA-37F1-4498-93C6-3D43767D1DE5}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_entidades\\lib_entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{616CAE00-8BC1-4E94-96D3-D0D03D9F475F}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\lib_entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\ventanas\\universidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\universidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\ventanas\\biblioteca\\pagina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\biblioteca\\pagina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\ventanas\\biblioteca\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\biblioteca\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_servicios\\controllers\\universidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\universidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\ventanas\\biblioteca\\pagina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\biblioteca\\pagina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61D84B76-454D-4576-BCF9-B016F51FECC3}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\emergentes\\mensajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\emergentes\\mensajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_utilidades\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA7C559-E364-4382-B747-C9721F2659B2}|lib_utilidades\\lib_utilidades.csproj|solutionrelative:lib_utilidades\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_comunicaciones\\implementaciones\\universidadescomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\implementaciones\\universidadescomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_presentaciones\\interfaces\\iuniversidadespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\iuniversidadespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_presentaciones\\implementaciones\\universidadespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\universidadespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\pages\\ventanas\\universidades.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\universidades.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_comunicaciones\\interfaces\\iuniversidadescomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\interfaces\\iuniversidadescomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_presentaciones\\lib_presentaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B627F18F-B8B7-4BD1-98E7-586C7959F51C}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\lib_presentaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\lib_comunicaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBA3ADA2-723A-46C9-B7F0-EAF458AAF336}|lib_comunicaciones\\lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\alejo\\onedrive\\escritorio\\programacion software\\codigos profe\\universidades\\universidades\\asp_presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{818D2423-501C-430C-A6A6-EA00C71D2B7F}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -170,7 +274,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -182,110 +286,192 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Universidades.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T12:10:28.886Z",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Startup.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Startup.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Startup.cs",
+              "RelativeToolTip": "asp_servicios\\Startup.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:10:36.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pagina.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T12:56:37.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lista.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Lista.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Lista.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Lista.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Lista.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T12:10:19.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pagina.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml.cs",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml.cs",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCIAAAARAAAAAAAAAA==",
+              "Title": "AsignaturasRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\AsignaturasRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\AsignaturasRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\AsignaturasRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\AsignaturasRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T12:54:03.033Z"
+              "WhenOpened": "2024-11-13T11:21:04.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAsignaturasRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IAsignaturasRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IAsignaturasRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IAsignaturasRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IAsignaturasRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:27:26.957Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "lib_entidades.csproj",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_entidades\\lib_entidades.csproj",
-              "RelativeDocumentMoniker": "lib_entidades\\lib_entidades.csproj",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_entidades\\lib_entidades.csproj",
-              "RelativeToolTip": "lib_entidades\\lib_entidades.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-07T12:22:17.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Universidades.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_entidades\\Modelos\\Universidades.cs",
-              "RelativeDocumentMoniker": "lib_entidades\\Modelos\\Universidades.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_entidades\\Modelos\\Universidades.cs",
-              "RelativeToolTip": "lib_entidades\\Modelos\\Universidades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "ICursosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\ICursosRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\ICursosRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\ICursosRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\ICursosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:08:39.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T11:28:28.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "CursosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\CursosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\CursosAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\CursosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\CursosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:00:33.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\CursosRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\CursosRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\CursosRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\CursosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:25:18.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfesoresAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\ProfesoresAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ProfesoresAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\ProfesoresAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ProfesoresAplicacion.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:00:49.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UniversidadesAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_aplicaciones\\Implementaciones\\UniversidadesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\UniversidadesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\UniversidadesAplicacion.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_aplicaciones\\Implementaciones\\UniversidadesAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\UniversidadesAplicacion.cs",
               "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\UniversidadesAplicacion.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwD4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T11:54:55.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UniversidadesController.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Controllers\\UniversidadesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\UniversidadesController.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Controllers\\UniversidadesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\UniversidadesController.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAuwC4AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IFacultadesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IFacultadesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IFacultadesAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IFacultadesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IFacultadesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:26:27.894Z"
+              "WhenOpened": "2024-11-13T12:05:22.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "IProfesoresAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IProfesoresAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IProfesoresAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IProfesoresAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IProfesoresAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:05:36.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUniversidadesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IUniversidadesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IUniversidadesAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IUniversidadesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IUniversidadesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:55:38.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfesoresRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\ProfesoresRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ProfesoresRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\ProfesoresRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ProfesoresRepositorio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:26:07.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UniversidadesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\UniversidadesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\UniversidadesRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\UniversidadesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\UniversidadesRepositorio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:50:09.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProfesoresRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IProfesoresRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IProfesoresRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IProfesoresRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IProfesoresRepositorio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:29:25.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUniversidadesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IUniversidadesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IUniversidadesRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IUniversidadesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IUniversidadesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:56:45.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Program.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Program.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Program.cs",
               "RelativeToolTip": "asp_servicios\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,238 +479,227 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UniversidadesRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\Implementaciones\\UniversidadesRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\UniversidadesRepositorio.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\Implementaciones\\UniversidadesRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\UniversidadesRepositorio.cs",
-              "ViewState": "AgIAAA4AAAAALDMzMzPzvywAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:50:09.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Configuracion.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Nucleo\\Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Nucleo\\Configuracion.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Configuracion.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Nucleo\\Configuracion.cs",
               "RelativeToolTip": "asp_servicios\\Nucleo\\Configuracion.cs",
-              "ViewState": "AgIAAAsAAAAgAAAAAAAgwAsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:46:56.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\appsettings.json",
-              "RelativeDocumentMoniker": "asp_servicios\\appsettings.json",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\appsettings.json",
-              "RelativeToolTip": "asp_servicios\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-07T15:58:38.728Z"
+              "DocumentIndex": 17,
+              "Title": "Universidades.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_entidades\\Modelos\\Universidades.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Modelos\\Universidades.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_entidades\\Modelos\\Universidades.cs",
+              "RelativeToolTip": "lib_entidades\\Modelos\\Universidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:08:39.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
+              "Title": "Profesores.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_entidades\\Modelos\\Profesores.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Modelos\\Profesores.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_entidades\\Modelos\\Profesores.cs",
+              "RelativeToolTip": "lib_entidades\\Modelos\\Profesores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:54:17.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Conexion.cs",
               "RelativeDocumentMoniker": "lib_repositorios\\Conexion.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\Conexion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Conexion.cs",
               "RelativeToolTip": "lib_repositorios\\Conexion.cs",
-              "ViewState": "AgIAABQAAAAgmZmZmZkjwAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T12:14:32.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DatosGenerales.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\DatosGenerales.cs",
-              "RelativeDocumentMoniker": "lib_utilidades\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\DatosGenerales.cs",
-              "RelativeToolTip": "lib_utilidades\\DatosGenerales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "IDepartamentosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IDepartamentosRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IDepartamentosRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IDepartamentosRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IDepartamentosRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:25:33.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\secrets.json",
-              "RelativeToolTip": "secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-07T15:37:33.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TokenController.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Controllers\\TokenController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TokenController.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Controllers\\TokenController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\TokenController.cs",
-              "ViewState": "AgIAAB8AAAAANDMzMzPzvyQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:26:27.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "JsonConversor.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\JsonConversor.cs",
-              "RelativeDocumentMoniker": "lib_utilidades\\JsonConversor.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\JsonConversor.cs",
-              "RelativeToolTip": "lib_utilidades\\JsonConversor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:26:31.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "asp_servicios\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\Properties\\launchSettings.json",
-              "RelativeToolTip": "asp_servicios\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-07T15:31:46.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T13:29:29.598Z"
+              "WhenOpened": "2024-11-13T11:30:27.621Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T13:28:19.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Index.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T13:28:27.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Error.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T13:29:36.609Z"
+              "Title": "IEstudiantesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IEstudiantesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IEstudiantesRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IEstudiantesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IEstudiantesRepositorio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:31:14.201Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Script.sql",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\Script.sql",
-              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\Script.sql",
-              "RelativeToolTip": "lib_repositorios\\Script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-07T12:16:34.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LogConversor.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\LogConversor.cs",
-              "RelativeDocumentMoniker": "lib_utilidades\\LogConversor.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\LogConversor.cs",
-              "RelativeToolTip": "lib_utilidades\\LogConversor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IFacultadesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IFacultadesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IFacultadesRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Interfaces\\IFacultadesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IFacultadesRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:26:40.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Mensajes.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T12:29:15.947Z"
+              "WhenOpened": "2024-11-13T11:31:23.311Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T12:29:42.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "EncriptarConversor.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\EncriptarConversor.cs",
-              "RelativeDocumentMoniker": "lib_utilidades\\EncriptarConversor.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\EncriptarConversor.cs",
-              "RelativeToolTip": "lib_utilidades\\EncriptarConversor.cs",
-              "ViewState": "AgIAADoAAAAAkJmZmZn7vwAAAAAAAAAAAAAAAA==",
+              "Title": "FacultadesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\FacultadesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\FacultadesRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\FacultadesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\FacultadesRepositorio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:26:19.515Z"
+              "WhenOpened": "2024-11-13T11:25:58.881Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T12:18:43.271Z"
+              "Title": "EstudiantesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\EstudiantesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EstudiantesRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\EstudiantesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EstudiantesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:25:50.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEstudiantesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IEstudiantesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IEstudiantesAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IEstudiantesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IEstudiantesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:05:11.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDepartamentosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IDepartamentosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IDepartamentosAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IDepartamentosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IDepartamentosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:04:57.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "ICursosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\ICursosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\ICursosAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\ICursosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\ICursosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:04:43.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAsignaturasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:04:24.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EstudiantesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\EstudiantesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\EstudiantesAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\EstudiantesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\EstudiantesAplicacion.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAjwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:00:43.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FacultadesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\FacultadesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\FacultadesAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\FacultadesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\FacultadesAplicacion.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAjwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:00:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DepartamentosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\DepartamentosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\DepartamentosAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\DepartamentosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\DepartamentosAplicacion.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAjwEMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:00:40.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AsignaturasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\AsignaturasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\AsignaturasAplicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_aplicaciones\\Implementaciones\\AsignaturasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AsignaturasAplicacion.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:52:33.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartamentosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\DepartamentosRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\DepartamentosRepositorio.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Implementaciones\\DepartamentosRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\DepartamentosRepositorio.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAWwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:25:39.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Enumerables.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\Enumerables.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\Enumerables.cs",
               "RelativeDocumentMoniker": "lib_utilidades\\Enumerables.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_utilidades\\Enumerables.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\Enumerables.cs",
               "RelativeToolTip": "lib_utilidades\\Enumerables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,11 +707,274 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
+              "Title": "JsonConversor.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\JsonConversor.cs",
+              "RelativeDocumentMoniker": "lib_utilidades\\JsonConversor.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\JsonConversor.cs",
+              "RelativeToolTip": "lib_utilidades\\JsonConversor.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:26:31.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EncriptarConversor.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\EncriptarConversor.cs",
+              "RelativeDocumentMoniker": "lib_utilidades\\EncriptarConversor.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\EncriptarConversor.cs",
+              "RelativeToolTip": "lib_utilidades\\EncriptarConversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:26:19.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_utilidades\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_utilidades\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:25:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Script.sql",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Script.sql",
+              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_repositorios\\Script.sql",
+              "RelativeToolTip": "lib_repositorios\\Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-07T12:16:34.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "lib_entidades.csproj",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_entidades\\lib_entidades.csproj",
+              "RelativeDocumentMoniker": "lib_entidades\\lib_entidades.csproj",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_entidades\\lib_entidades.csproj",
+              "RelativeToolTip": "lib_entidades\\lib_entidades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T12:22:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Pagina.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml.cs",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:54:03.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Lista.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Lista.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:10:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Pagina.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Biblioteca\\Pagina.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAIBJwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T12:56:37.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Universidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:10:28.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UniversidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Controllers\\UniversidadesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\UniversidadesController.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Controllers\\UniversidadesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\UniversidadesController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAuwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:26:27.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\appsettings.json",
+              "RelativeDocumentMoniker": "asp_servicios\\appsettings.json",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\appsettings.json",
+              "RelativeToolTip": "asp_servicios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T15:58:38.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\secrets.json",
+              "RelativeDocumentMoniker": "secrets.json",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\secrets.json",
+              "RelativeToolTip": "secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T15:37:33.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAB8AAAAANDMzMzPzvyQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:26:27.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "asp_servicios\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\Properties\\launchSettings.json",
+              "RelativeToolTip": "asp_servicios\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T15:31:46.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:29:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:28:19.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Index.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:28:27.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Error.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:29:36.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LogConversor.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\LogConversor.cs",
+              "RelativeDocumentMoniker": "lib_utilidades\\LogConversor.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_utilidades\\LogConversor.cs",
+              "RelativeToolTip": "lib_utilidades\\LogConversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:26:40.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Mensajes.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:29:15.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:29:42.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBwAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:18:43.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
               "Title": "UniversidadesPresentacion.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\Implementaciones\\UniversidadesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_presentaciones\\Implementaciones\\UniversidadesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\UniversidadesPresentacion.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\Implementaciones\\UniversidadesPresentacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_presentaciones\\Implementaciones\\UniversidadesPresentacion.cs",
               "RelativeToolTip": "lib_presentaciones\\Implementaciones\\UniversidadesPresentacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -544,11 +982,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 58,
               "Title": "IUniversidadesPresentacion.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\Interfaces\\IUniversidadesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_presentaciones\\Interfaces\\IUniversidadesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IUniversidadesPresentacion.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\Interfaces\\IUniversidadesPresentacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_presentaciones\\Interfaces\\IUniversidadesPresentacion.cs",
               "RelativeToolTip": "lib_presentaciones\\Interfaces\\IUniversidadesPresentacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -556,11 +994,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 57,
               "Title": "UniversidadesComunicacion.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\Implementaciones\\UniversidadesComunicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_comunicaciones\\Implementaciones\\UniversidadesComunicacion.cs",
               "RelativeDocumentMoniker": "lib_comunicaciones\\Implementaciones\\UniversidadesComunicacion.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\Implementaciones\\UniversidadesComunicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_comunicaciones\\Implementaciones\\UniversidadesComunicacion.cs",
               "RelativeToolTip": "lib_comunicaciones\\Implementaciones\\UniversidadesComunicacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -568,23 +1006,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IUniversidadesAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_aplicaciones\\Interfaces\\IUniversidadesAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IUniversidadesAplicacion.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_aplicaciones\\Interfaces\\IUniversidadesAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IUniversidadesAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:55:38.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 60,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "asp_presentacion\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "asp_presentacion\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -592,11 +1018,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 62,
               "Title": "IUniversidadesComunicacion.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\Interfaces\\IUniversidadesComunicacion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_comunicaciones\\Interfaces\\IUniversidadesComunicacion.cs",
               "RelativeDocumentMoniker": "lib_comunicaciones\\Interfaces\\IUniversidadesComunicacion.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\Interfaces\\IUniversidadesComunicacion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_comunicaciones\\Interfaces\\IUniversidadesComunicacion.cs",
               "RelativeToolTip": "lib_comunicaciones\\Interfaces\\IUniversidadesComunicacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -604,11 +1030,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 61,
               "Title": "Universidades.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml.cs",
               "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml.cs",
               "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Universidades.cshtml.cs",
               "ViewState": "AgIAABUAAADgMjMzMzMqwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -616,11 +1042,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 63,
               "Title": "lib_presentaciones.csproj",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_presentaciones\\lib_presentaciones.csproj",
               "RelativeDocumentMoniker": "lib_presentaciones\\lib_presentaciones.csproj",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_presentaciones\\lib_presentaciones.csproj",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_presentaciones\\lib_presentaciones.csproj",
               "RelativeToolTip": "lib_presentaciones\\lib_presentaciones.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -628,37 +1054,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IUniversidadesRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\Interfaces\\IUniversidadesRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IUniversidadesRepositorio.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_repositorios\\Interfaces\\IUniversidadesRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IUniversidadesRepositorio.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:56:45.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 64,
               "Title": "Comunicaciones.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\Comunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_comunicaciones\\Comunicaciones.cs",
               "RelativeDocumentMoniker": "lib_comunicaciones\\Comunicaciones.cs",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\lib_comunicaciones\\Comunicaciones.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\lib_comunicaciones\\Comunicaciones.cs",
               "RelativeToolTip": "lib_comunicaciones\\Comunicaciones.cs",
-              "ViewState": "AgIAAAQAAADQl5mZmZkfwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAD0ZWZmZuY0wA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T11:52:52.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 65,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "asp_presentacion\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_presentacion\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_presentacion\\Properties\\launchSettings.json",
               "RelativeToolTip": "asp_presentacion\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAgAAAAAAAAAAABRwAYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAMBdwAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-06T20:29:04.11Z"
             }

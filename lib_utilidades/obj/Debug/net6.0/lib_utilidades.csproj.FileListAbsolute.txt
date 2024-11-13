@@ -70,3 +70,16 @@ C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\h
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_utilidades\obj\Debug\net6.0\refint\lib_utilidades.dll
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_utilidades\obj\Debug\net6.0\lib_utilidades.pdb
 C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\hogares\hogares\lib_utilidades\obj\Debug\net6.0\ref\lib_utilidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\bin\Debug\net6.0\lib_utilidades.deps.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\bin\Debug\net6.0\lib_utilidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\bin\Debug\net6.0\lib_utilidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\lib_utilidades.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\lib_utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\lib_utilidades.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\lib_utilidades.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\lib_utilidades.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\lib_utilidades.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\lib_utilidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\refint\lib_utilidades.dll
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\lib_utilidades.pdb
+C:\Users\alejo\OneDrive\Escritorio\Programacion software\codigos profe\Universidades\Universidades\lib_utilidades\obj\Debug\net6.0\ref\lib_utilidades.dll

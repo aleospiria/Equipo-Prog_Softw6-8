@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n5Eo3mhlq4c=",
+  "dgSpecHash": "Dn4ipcEulW8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\hogares\\hogares\\asp_servicios\\asp_servicios.csproj",
+  "projectFilePath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\Programacion software\\codigos profe\\Universidades\\Universidades\\asp_servicios\\asp_servicios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alejo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\alejo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
