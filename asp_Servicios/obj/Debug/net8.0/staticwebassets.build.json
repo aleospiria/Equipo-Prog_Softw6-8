@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "KQfQccus9eDNASJPQdEo3l7n4OuBQHaE63VputwJUkE=",
+  "Hash": "E8x06hL7FsVTQy87TF0FFwI6jZlFXpW2MvTMOLnQfSE=",
   "Source": "asp_Servicios",
   "BasePath": "_content/asp_Servicios",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

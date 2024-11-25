@@ -17,3 +17,5 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\asp_Servicios
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

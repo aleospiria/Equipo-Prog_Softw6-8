@@ -8,7 +8,7 @@ using System.Text;
 
 namespace asp_Servicios.Controllers
 {
-    public class TokenController: ControllerBase
+    public class TokenController : ControllerBase
     {
         private Dictionary<string, object> ObtenerDatos()
         {
@@ -45,8 +45,8 @@ namespace asp_Servicios.Controllers
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {
                     Subject = new ClaimsIdentity(new Claim[] {
-new Claim(ClaimTypes.Name, datos["Usuario"].ToString()!)
-}),
+                        new Claim(ClaimTypes.Name, datos["Usuario"].ToString()!) 
+                    }),
                     Expires = DateTime.UtcNow.AddHours(1),
                     SigningCredentials = new SigningCredentials(
                 new SymmetricSecurityKey(Encoding.UTF8.GetBytes(DatosGenerales.clave)),

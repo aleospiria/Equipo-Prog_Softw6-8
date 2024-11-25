@@ -27,8 +27,19 @@ namespace lib_utilidades
         {
             if (!ignore)
                 return JsonConvert.SerializeObject(data);
-            return "";
+
+            return JsonConvert.SerializeObject(data, Formatting.Indented,
+                new JsonSerializerSettings() { ReferenceLoopHandling = ReferenceLoopHandling.Ignore }
+             );
         }
 
+        public static T ConvertirAObjeto<T>(string data, bool check = false)
+        {
+            if (check && data.Contains("\""))
+                data = data.Replace("\"", "");
+            return JsonConvert.DeserializeObject<T>(data)!;
         }
+
+
+    }
 }

@@ -19,11 +19,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 //services.AddSwaggerGen();
 builder.Services.AddScoped<Conexion, Conexion>();
-// Repositorios
+//Repositorios
 builder.Services.AddScoped<IAsignaturasRepositorio, AsignaturasRepositorio>();
-// Aplicaciones
+//Aplicaciones
 builder.Services.AddScoped<IAsignaturasAplicacion, AsignaturasAplicacion>();
-// Controladores
+//Controladores
 builder.Services.AddScoped<TokenController, TokenController>();
 builder.Services.AddCors(o => o.AddDefaultPolicy(b => b.AllowAnyOrigin()));
 

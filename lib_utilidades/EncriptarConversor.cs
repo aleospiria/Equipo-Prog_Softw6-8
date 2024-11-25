@@ -42,8 +42,7 @@ namespace lib_utilidades
             ICryptoTransform decryptor = aes!.CreateDecryptor(aes.Key, aes.IV);
             using (MemoryStream memoryStream = new MemoryStream(buffer))
             {
-                using (CryptoStream cryptoStream = new CryptoStream((Stream)memoryStream, decryptor,
-                CryptoStreamMode.Read))
+                using (CryptoStream cryptoStream = new CryptoStream((Stream)memoryStream, decryptor,CryptoStreamMode.Read))
                 {
                     using (StreamReader streamReader = new StreamReader((Stream)cryptoStream))
                     {
