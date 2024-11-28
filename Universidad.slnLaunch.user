@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "asp_Servicios\\asp_Servicios.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "asp_Presentaciones\\asp_Presentaciones.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

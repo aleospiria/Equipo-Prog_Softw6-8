@@ -9,6 +9,7 @@ namespace lib_aplicaciones.Interfaces
 {
     public interface IDepartamentosAplicacion
     {
+        void Configurar(string string_conexion);
         List<Departamentos> Listar();
         List<Departamentos> Buscar(Departamentos entidad, string tipo);
         Departamentos Guardar(Departamentos entidad);

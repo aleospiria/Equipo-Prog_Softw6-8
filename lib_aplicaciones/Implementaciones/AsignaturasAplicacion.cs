@@ -38,7 +38,6 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbFaltaInformacion");
             if (entidad.Id != 0)
                 throw new Exception("lbYaSeGuardo");
-            entidad = CalcularAsignaturas(entidad);
             entidad = iRepositorio!.Guardar(entidad);
             return entidad;
         }
@@ -46,17 +45,15 @@ namespace lib_aplicaciones.Implementaciones
         {
             return iRepositorio!.Listar();
         }
-        public List<Asignaturas> Buscar(Asignaturas entidad, string
-        tipo)
+        public List<Asignaturas> Buscar(Asignaturas entidad, string tipo)
         {
-            Expression<Func<Asignaturas, bool>>? condiciones =
-            null;
+            Expression<Func<Asignaturas, bool>>? condiciones = null;
             switch (tipo.ToUpper())
             {
-                case "Codigo Asignatura":
-                    condiciones = x =>
-                x.Codigo!.Contains(entidad.Codigo!); break;
-                case "Nombre Asignatura":
+                //case "Codigo":
+                //    condiciones = x =>
+                //x.Codigo!.Contains(entidad.Codigo!); break;
+                case "Nombre":
                     condiciones = x => x.Nombre!.Contains(entidad.Nombre!);
                     break;
                 default:
@@ -64,12 +61,6 @@ namespace lib_aplicaciones.Implementaciones
                 entidad.Id; break;
             }
             return this.iRepositorio!.Buscar(condiciones);
-        }
-
-        public Asignaturas BuscarId(int id)
-        {
-            Expression<Func<Asignaturas, bool>> condicion =x => x.Id == id;
-            return this.iRepositorio!.Buscar(condicion).FirstOrDefault();
         }
 
         public Asignaturas Modificar(Asignaturas entidad)
@@ -82,6 +73,14 @@ namespace lib_aplicaciones.Implementaciones
             entidad = iRepositorio!.Modificar(entidad);
             return entidad;
         }
+
+        public Asignaturas BuscarId(int id)
+        {
+            Expression<Func<Asignaturas, bool>> condicion =x => x.Id == id;
+            return this.iRepositorio!.Buscar(condicion).FirstOrDefault();
+        }
+
+        
         private Asignaturas CalcularAsignaturas(Asignaturas entidad)
         {
 

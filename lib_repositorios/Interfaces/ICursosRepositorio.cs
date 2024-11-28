@@ -10,5 +10,6 @@ namespace lib_repositorios.Interfaces
         Cursos Guardar(Cursos entidad);
         Cursos Modificar(Cursos entidad);
         Cursos Borrar(Cursos entidad);
+        void Configurar(string string_conexion);
     }
 }

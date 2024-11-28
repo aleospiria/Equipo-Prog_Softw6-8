@@ -10,14 +10,20 @@ namespace lib_entidades.Modelos
         public string Codigo { get; set; }
         public int Semestre { get; set; }
 
+        public int DepartamentosId { get; set; }
         public Departamentos Departamentos {get; set; }
+        public int ProfesoresId { get; set; }
         public Profesores? Profesores { get; set; }  
-        public ICollection<Cursos>? Cursos { get; set; } 
+        public ICollection<Cursos>? Cursos { get; set; }
 
 
-        public void definirCronogramaEstudio()
+        public bool Validar()
         {
-            // contenido del método
+            if (string.IsNullOrEmpty(Nombre) ||
+                DepartamentosId <= 0 ||
+                ProfesoresId <= 0)
+                return false;
+            return true;
         }
     }
 }

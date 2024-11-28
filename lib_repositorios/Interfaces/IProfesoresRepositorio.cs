@@ -10,5 +10,6 @@ namespace lib_repositorios.Interfaces
         Profesores Guardar(Profesores entidad);
         Profesores Modificar(Profesores entidad);
         Profesores Borrar(Profesores entidad);
+        void Configurar(string string_conexion);
     }
 }

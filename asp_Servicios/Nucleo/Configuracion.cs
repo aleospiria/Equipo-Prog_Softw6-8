@@ -16,12 +16,12 @@ namespace asp_Servicios.Nucleo
         }
         public static void Cargar()
         {
+            if(!File.Exists(DatosGenerales.ruta_json))
+                return;
             datos = new Dictionary<string, string>();
             StreamReader jsonStream = File.OpenText(DatosGenerales.ruta_json);
             var json = jsonStream.ReadToEnd();
-            var temp = JsonConvert.DeserializeObject<Dictionary<string, string>>(json)!;
-            foreach (var elemeto in temp)
-                datos[elemeto.Key] = elemeto.Value;
+            datos = JsonConvert.DeserializeObject<Dictionary<string, string>>(json)!;
         }
     }
 }

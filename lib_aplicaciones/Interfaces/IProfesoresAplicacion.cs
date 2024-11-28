@@ -9,6 +9,7 @@ namespace lib_aplicaciones.Interfaces
 {
     public interface IProfesoresAplicacion
     {
+        void Configurar(string string_conexion);
         List<Profesores> Listar();
         List<Profesores> Buscar(Profesores entidad, string tipo);
         Profesores Guardar(Profesores entidad);

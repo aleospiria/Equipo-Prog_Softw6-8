@@ -9,6 +9,7 @@ namespace lib_aplicaciones.Interfaces
 {
     public interface IEstudiantesAplicacion
     {
+        void Configurar(string string_conexion);
         List<Estudiantes> Listar();
         List<Estudiantes> Buscar(Estudiantes entidad, string tipo);
         Estudiantes Guardar(Estudiantes entidad);

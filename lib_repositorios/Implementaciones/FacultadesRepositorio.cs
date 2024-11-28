@@ -1,5 +1,6 @@
 ﻿using lib_entidades.Modelos;
 using lib_repositorios.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
 namespace lib_repositorios.Implementaciones
@@ -12,10 +13,14 @@ namespace lib_repositorios.Implementaciones
         {
             this.conexion = conexion;
         }
+        public void Configurar(string string_conexion)
+        {
+            this.conexion!.StringConnection = string_conexion;
+        }
 
         public List<Facultades> Listar()
         {
-            return conexion!.Listar<Facultades>();
+            return Buscar(x => x != null);
         }
         public List<Facultades> Buscar(Expression<Func<Facultades, bool>> condiciones)
         {
@@ -23,9 +28,13 @@ namespace lib_repositorios.Implementaciones
         }
         public Facultades Guardar(Facultades entidad)
         {
-            conexion!.Guardar(entidad);
-            conexion!.GuardarCambios();
-            return entidad;
+            try
+            {
+                conexion!.Guardar(entidad);
+                conexion!.GuardarCambios();
+                return entidad;
+            }
+            catch (DbUpdateException ex) { throw new Exception("Error al actualizar la base de datos: " + ex.InnerException?.Message); }
         }
 
         public Facultades Modificar(Facultades entidad)

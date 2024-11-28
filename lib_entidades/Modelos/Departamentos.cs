@@ -11,14 +11,16 @@ namespace lib_entidades.Modelos
         public string Telefono { get; set; }
         public string Email { get; set; }
         
-
+        public int FacultadesId { get; set; }
         public Facultades Facultades { get; set; }
         public ICollection<Asignaturas>? Asignaturas { get; set; }
-        public ICollection<Profesores>? Profesores { get; set; } 
+        public ICollection<Profesores>? Profesores { get; set; }
 
-        public void AdministrarAsignaturas()
+        public bool Validar()
         {
-            // contenido del método
+            if (string.IsNullOrEmpty(Nombre))
+                return false;
+            return true;
         }
     }
 }

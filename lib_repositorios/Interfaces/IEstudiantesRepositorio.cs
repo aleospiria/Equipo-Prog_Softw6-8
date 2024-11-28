@@ -10,5 +10,6 @@ namespace lib_repositorios.Interfaces
         Estudiantes Guardar(Estudiantes entidad);
         Estudiantes Modificar(Estudiantes entidad);
         Estudiantes Borrar(Estudiantes entidad);
+        void Configurar(string string_conexion);
     }
 }

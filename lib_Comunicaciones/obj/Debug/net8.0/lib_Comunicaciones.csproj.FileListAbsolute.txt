@@ -1,0 +1,16 @@
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\bin\Debug\net8.0\lib_Comunicaciones.deps.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\bin\Debug\net8.0\lib_Comunicaciones.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\bin\Debug\net8.0\lib_Comunicaciones.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\bin\Debug\net8.0\lib_utilidades.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\bin\Debug\net8.0\lib_utilidades.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comunicaciones.csproj.AssemblyReference.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comunicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comunicaciones.AssemblyInfoInputs.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comunicaciones.AssemblyInfo.cs
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comunicaciones.csproj.CoreCompileInputs.cache
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comunicaciones.sourcelink.json
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comu.4034CE46.Up2Date
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comunicaciones.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\refint\lib_Comunicaciones.dll
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\lib_Comunicaciones.pdb
+C:\.ProjectosU\GitHub\ProyectoU\PROYECTO EQUIPO UNIVERSIDAD\ProyectoUniversidad\Universidad\lib_Comunicaciones\obj\Debug\net8.0\ref\lib_Comunicaciones.dll

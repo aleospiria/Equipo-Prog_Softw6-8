@@ -9,6 +9,7 @@ namespace lib_aplicaciones.Interfaces
 {
     public interface ICursosAplicacion
     {
+        void Configurar(string string_conexion);
         List<Cursos> Listar();
         List<Cursos> Buscar(Cursos entidad, string tipo);
         Cursos Guardar(Cursos entidad);

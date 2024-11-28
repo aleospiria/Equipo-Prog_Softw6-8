@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D4D4B9C-EDAF-4533-9CC1-D7F67FD1084C}|lib_repositorios\\lib_repositorios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4D4B9C-EDAF-4533-9CC1-D7F67FD1084C}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\asp_servicios\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|solutionrelative:asp_servicios\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAF88903-A90C-471C-9440-A65460998C1C}|asp_Servicios\\asp_Servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CF766BB-DBB4-4395-BCC8-C42617AEF4BA}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_aplicaciones\\implementaciones\\asignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CF766BB-DBB4-4395-BCC8-C42617AEF4BA}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\asignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CF766BB-DBB4-4395-BCC8-C42617AEF4BA}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\lib_aplicaciones\\interfaces\\iasignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CF766BB-DBB4-4395-BCC8-C42617AEF4BA}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iasignaturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59F8A21C-84E6-4EE0-B4D6-475F92713F3B}|asp_Presentaciones\\asp_Presentaciones.csproj|c:\\.projectosu\\github\\proyectou\\proyecto equipo universidad\\proyectouniversidad\\universidad\\asp_presentaciones\\pages\\ventanas\\profesores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F8A21C-84E6-4EE0-B4D6-475F92713F3B}|asp_Presentaciones\\asp_Presentaciones.csproj|solutionrelative:asp_presentaciones\\pages\\ventanas\\profesores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,84 +17,21 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Program.cs",
-              "RelativeDocumentMoniker": "asp_Servicios\\Program.cs",
-              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Program.cs",
-              "RelativeToolTip": "asp_Servicios\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:57:32.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_repositorios\\Conexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Conexion.cs",
-              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_repositorios\\Conexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Conexion.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:47:04.979Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenController.cs",
-              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\TokenController.cs",
-              "RelativeDocumentMoniker": "asp_Servicios\\Controllers\\TokenController.cs",
-              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\TokenController.cs",
-              "RelativeToolTip": "asp_Servicios\\Controllers\\TokenController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAqwCMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:51:36.974Z",
+              "DocumentIndex": 0,
+              "Title": "Profesores.cshtml",
+              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Presentaciones\\Pages\\Ventanas\\Profesores.cshtml",
+              "RelativeDocumentMoniker": "asp_Presentaciones\\Pages\\Ventanas\\Profesores.cshtml",
+              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Presentaciones\\Pages\\Ventanas\\Profesores.cshtml",
+              "RelativeToolTip": "asp_Presentaciones\\Pages\\Ventanas\\Profesores.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAI4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:26:47.958Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AsignaturasController.cs",
-              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\AsignaturasController.cs",
-              "RelativeDocumentMoniker": "asp_Servicios\\Controllers\\AsignaturasController.cs",
-              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\asp_Servicios\\Controllers\\AsignaturasController.cs",
-              "RelativeToolTip": "asp_Servicios\\Controllers\\AsignaturasController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAQwBEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T06:15:45.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAsignaturasAplicacion.cs",
-              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
-              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IAsignaturasAplicacion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T07:48:25.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AsignaturasAplicacion.cs",
-              "DocumentMoniker": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_aplicaciones\\Implementaciones\\AsignaturasAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\AsignaturasAplicacion.cs",
-              "ToolTip": "C:\\.ProjectosU\\GitHub\\ProyectoU\\PROYECTO EQUIPO UNIVERSIDAD\\ProyectoUniversidad\\Universidad\\lib_aplicaciones\\Implementaciones\\AsignaturasAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AsignaturasAplicacion.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T07:49:55.748Z"
             }
           ]
         }

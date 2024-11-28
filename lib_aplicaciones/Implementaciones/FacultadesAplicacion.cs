@@ -18,6 +18,10 @@ namespace lib_aplicaciones.Implementaciones
         {
             this.iRepositorio = iRepositorio;
         }
+        public void Configurar(string string_conexion)
+        {
+            this.iRepositorio!.Configurar(string_conexion);
+        }
         public Facultades Borrar(Facultades entidad)
         {
             if (entidad == null)
@@ -33,7 +37,6 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbFaltaInformacion");
             if (entidad.Id != 0)
                 throw new Exception("lbYaSeGuardo");
-            entidad = CalcularFacultades(entidad);
             entidad = iRepositorio!.Guardar(entidad);
             return entidad;
         }
@@ -44,19 +47,20 @@ namespace lib_aplicaciones.Implementaciones
         public List<Facultades> Buscar(Facultades entidad, string
         tipo)
         {
-            Expression<Func<Facultades, bool>>? condiciones =
-            null;
+            Expression<Func<Facultades, bool>>? condiciones = null;
             switch (tipo.ToUpper())
             {
-                case "Nombre":
-                    condiciones = x =>
-                x.Nombre!.Contains(entidad.Nombre!); break;
+                
+                case "Nombre Facultad":
+                    condiciones = x => x.Nombre!.Contains(entidad.Nombre!);
+                    break;
                 default:
                     condiciones = x => x.Id ==
                 entidad.Id; break;
             }
             return this.iRepositorio!.Buscar(condiciones);
         }
+
         public Facultades Modificar(Facultades entidad)
         {
             if (entidad == null)

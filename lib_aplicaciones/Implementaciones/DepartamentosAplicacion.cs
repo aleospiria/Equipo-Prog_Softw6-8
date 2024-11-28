@@ -18,6 +18,10 @@ namespace lib_aplicaciones.Implementaciones
         {
             this.iRepositorio = iRepositorio;
         }
+        public void Configurar(string string_conexion)
+        {
+            this.iRepositorio!.Configurar(string_conexion);
+        }
         public Departamentos Borrar(Departamentos entidad)
         {
             if (entidad == null)
@@ -33,7 +37,6 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbFaltaInformacion");
             if (entidad.Id != 0)
                 throw new Exception("lbYaSeGuardo");
-            entidad = CalcularDepartamentos(entidad);
             entidad = iRepositorio!.Guardar(entidad);
             return entidad;
         }
@@ -44,19 +47,19 @@ namespace lib_aplicaciones.Implementaciones
         public List<Departamentos> Buscar(Departamentos entidad, string
         tipo)
         {
-            Expression<Func<Departamentos, bool>>? condiciones =
-            null;
+            Expression<Func<Departamentos, bool>>? condiciones = null;
             switch (tipo.ToUpper())
             {
-                case "Nombre":
-                    condiciones = x =>
-                x.Nombre!.Contains(entidad.Nombre!); break;
+                case "Nombre Departamento":
+                    condiciones = x => x.Nombre!.Contains(entidad.Nombre!);
+                    break;
                 default:
                     condiciones = x => x.Id ==
                 entidad.Id; break;
             }
             return this.iRepositorio!.Buscar(condiciones);
         }
+
         public Departamentos Modificar(Departamentos entidad)
         {
             if (entidad == null)

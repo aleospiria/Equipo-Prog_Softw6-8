@@ -1,5 +1,6 @@
 ﻿using lib_entidades.Modelos;
 using lib_repositorios.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 using static lib_repositorios.Implementaciones.AsignaturasRepositorio;
 
@@ -8,6 +9,7 @@ namespace lib_repositorios.Implementaciones
     public class AsignaturasRepositorio : IAsignaturasRepositorio
     {
           private Conexion? conexion = null;
+
           public AsignaturasRepositorio(Conexion conexion)
           {
                 this.conexion = conexion;
@@ -19,7 +21,7 @@ namespace lib_repositorios.Implementaciones
 
             public List<Asignaturas> Listar()
         {
-            return conexion!.Listar<Asignaturas>();
+            return Buscar(x => x!= null);
         }
         public List<Asignaturas> Buscar(Expression<Func<Asignaturas, bool>> condiciones)
         {
@@ -27,9 +29,13 @@ namespace lib_repositorios.Implementaciones
         }
         public Asignaturas Guardar(Asignaturas entidad)
         {
-            conexion!.Guardar(entidad);
-            conexion!.GuardarCambios();
-            return entidad;
+            try
+            {
+                conexion!.Guardar(entidad);
+                conexion!.GuardarCambios();
+                return entidad;
+            }
+            catch (DbUpdateException ex) { throw new Exception("Error al actualizar la base de datos: " + ex.InnerException?.Message); }
         }
 
         public Asignaturas Modificar(Asignaturas entidad)

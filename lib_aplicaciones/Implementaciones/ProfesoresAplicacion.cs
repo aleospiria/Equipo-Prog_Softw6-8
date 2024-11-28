@@ -18,6 +18,10 @@ namespace lib_aplicaciones.Implementaciones
         {
             this.iRepositorio = iRepositorio;
         }
+        public void Configurar(string string_conexion)
+        {
+            this.iRepositorio!.Configurar(string_conexion);
+        }
         public Profesores Borrar(Profesores entidad)
         {
             if (entidad == null)
@@ -33,7 +37,6 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbFaltaInformacion");
             if (entidad.Id != 0)
                 throw new Exception("lbYaSeGuardo");
-            entidad = CalcularProfesores(entidad);
             entidad = iRepositorio!.Guardar(entidad);
             return entidad;
         }
@@ -44,19 +47,20 @@ namespace lib_aplicaciones.Implementaciones
         public List<Profesores> Buscar(Profesores entidad, string
         tipo)
         {
-            Expression<Func<Profesores, bool>>? condiciones =
-            null;
+            Expression<Func<Profesores, bool>>? condiciones = null;
             switch (tipo.ToUpper())
             {
-                case "Nombre":
-                    condiciones = x =>
-                x.Nombres!.Contains(entidad.Nombres!); break;
+                
+                case "Nombre Profesor":
+                    condiciones = x => x.Nombres!.Contains(entidad.Nombres!);
+                    break;
                 default:
                     condiciones = x => x.Id ==
                 entidad.Id; break;
             }
             return this.iRepositorio!.Buscar(condiciones);
         }
+
         public Profesores Modificar(Profesores entidad)
         {
             if (entidad == null)

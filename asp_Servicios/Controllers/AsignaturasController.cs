@@ -5,10 +5,12 @@ using lib_entidades.Modelos;
 using lib_repositorios;
 using lib_repositorios.Implementaciones;
 using lib_utilidades;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace asp_Servicios.Controllers
 {
+    
     [ApiController]
     [Route("[controller]/[action]")]
     public class AsignaturasController : ControllerBase
@@ -109,14 +111,18 @@ namespace asp_Servicios.Controllers
             try
             {
                 var datos = ObtenerDatos();
+                Console.WriteLine("Datos obtenidos: " + JsonConversor.ConvertirAString(datos));
+
                 if (!tokenController!.Validate(datos))
                 {
+                    Console.WriteLine("Token no válido o expirado.");
                     respuesta["Error"] = "lbNoAutenticacion";
                     return JsonConversor.ConvertirAString(respuesta);
                 }
 
                 var entidad = JsonConversor.ConvertirAObjeto<Asignaturas>(
                     JsonConversor.ConvertirAString(datos["Entidad"]));
+                Console.WriteLine("Entidad obtenida: " + JsonConversor.ConvertirAString(entidad));
 
                 this.iAplicacion!.Configurar(Configuracion.ObtenerValor("ConectionString"));
                 entidad = this.iAplicacion!.Guardar(entidad);
@@ -128,10 +134,15 @@ namespace asp_Servicios.Controllers
             }
             catch (Exception ex)
             {
+                Console.WriteLine("Error: " + ex.Message);
                 respuesta["Error"] = ex.Message.ToString();
                 return JsonConversor.ConvertirAString(respuesta);
             }
         }
+
+
+
+
 
         [HttpPost]
         public string Modificar()

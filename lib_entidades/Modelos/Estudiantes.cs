@@ -24,5 +24,12 @@ namespace lib_entidades.Modelos
         {
             // contenido del metodo
         }
+
+        public bool Validar()
+        {
+            if (string.IsNullOrEmpty(Nombre))
+                return false;
+            return true;
+        }
     }
 }

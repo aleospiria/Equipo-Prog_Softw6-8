@@ -10,5 +10,6 @@ namespace lib_repositorios.Interfaces
         Facultades Guardar(Facultades entidad);
         Facultades Modificar(Facultades entidad);
         Facultades Borrar(Facultades entidad);
+        void Configurar(string string_conexion);
     }
 }

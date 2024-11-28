@@ -10,5 +10,6 @@ namespace lib_repositorios.Interfaces
         Departamentos Guardar(Departamentos entidad);
         Departamentos Modificar(Departamentos entidad);
         Departamentos Borrar(Departamentos entidad);
+        void Configurar(string string_conexion);
     }
 }

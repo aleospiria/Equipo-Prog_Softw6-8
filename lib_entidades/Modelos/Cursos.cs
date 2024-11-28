@@ -10,18 +10,23 @@ namespace lib_entidades.Modelos
         public string Descripcion { get; set; }
         public DateTime Fecha_Inicio { get; set; }
 
-
+        public int FacultadesId { get; set; }
         public Facultades Facultades { get; set; }
 
         
          public ICollection<Estudiantes>? Estudiantes { get;  set; }
          public ICollection<Asignaturas>? Asignaturas {get; set; }
-         
-        
 
-        
 
-       
-        
+        public bool Validar()
+        {
+            if (string.IsNullOrEmpty(Nombre))
+                return false;
+            return true;
+        }
+
+
+
+
     }
 }

@@ -1,0 +1,249 @@
+﻿@page
+@model asp_Presentaciones.Pages.Ventanas.EstudiantesModel
+@{
+    ViewData["Titulo"] = "Estudiantes";
+}
+<center>
+    <div>
+        <form method="POST"
+              enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+
+            <div align="left">
+                <h3>Estudiantes</h3>
+            </div>
+            <div align="left"
+                 class="bt_panel_buttons">
+                <input type="submit"
+                       value="Refrescar"
+                       asp-page-handler="BtRefrescar"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion != lib_utilidades.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="Nuevo"
+                       asp-page-handler="BtNuevo"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion != lib_utilidades.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="Guardar"
+                       asp-page-handler="BtGuardar"
+                       class="btn btn-success"
+                       disabled="@(Model.Accion == lib_utilidades.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="Cancelar"
+                       asp-page-handler="BtCancelar"
+                       class="btn btn-warning"
+                       disabled="@(Model.Accion == lib_utilidades.Enumerables.Ventanas.Listas)" />
+            </div>
+
+            @if (Model.Accion != lib_utilidades.Enumerables.Ventanas.Listas ||
+            Model.Accion == lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Id" />
+            }
+            @if (Model.Accion == lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Nombre" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Apellido" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.FechaNacimiento" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Edad" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Direccion" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Numero_de_Contacto" />
+            }
+
+            @if (Model.Accion == lib_utilidades.Enumerables.Ventanas.Editar)
+            {
+                <div class="containers_vn panel panel-default">
+                    <h3>Nuevo Estudiante</h3>
+
+                    <div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Nombres
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmNombre"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Nombre" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Apellidos
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmApellidos"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Apellido" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Fecha Nacimiento
+                                </label>
+                            <div class="col-lg-6">
+                                <input id="nmSemestre"
+                                    class="cts_forms form-control"
+                                    asp-for="@Model.Actual!.FechaNacimiento"/>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Edad
+                                </label>
+                            <div class="col-lg-6">
+                                <input id="nmSemestre"
+                                    class="cts_forms form-control"
+                                    asp-for="@Model.Actual!.Edad"/>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Direccion
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmSemestre"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Direccion" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Numero de Contacto
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmSemestre"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Numero_de_Contacto" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (ViewData.ContainsKey("Mensaje"))
+            {
+                <input type="hidden"
+                       asp-for="@Model.Accion" />
+                @await Html.PartialAsync("/Pages/Emergentes/Mensajes.cshtml")
+                ;
+            }
+
+            @if (Model.Accion == lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <div class='popup'>
+                    <div class='pp_del_inner'>
+                        <div style='width:95%'>
+                            <h2 align="left">
+                                Mensaje
+                            </h2>
+
+                            <h4 align="left">
+                                Desea borrar la entidad?
+                            </h4>
+                            <h6 align="left">
+                                @Model.Actual!.Nombre
+                            </h6>
+                            <br />
+                            <br />
+                            <input type="submit"
+                                   value="Borrar"
+                                   asp-page-handler="BtBorrar"
+                                   class="btn btn-danger" />
+                            <input type="submit"
+                                   value="Cerrar"
+                                   asp-page-handler="BtCancelar"
+                                   class="btn btn-secondary" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (Model.Accion == lib_utilidades.Enumerables.Ventanas.Listas ||
+            Model.Accion == lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <input id="flNombre"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Filtro!.Nombre"
+                       asp-for="@Model.Filtro!.Apellido"
+                       asp-for="@Model.Filtro!.Edad"
+                       placeholder="Nombre" />
+                <br />
+
+                <div class="containers_vn panel panel-default">
+                    <table class="tb_data table table-striped table-bordered table-hover">
+                        <tr>
+                            <th>
+                                Nombres
+                            </th>
+                            <th>
+                                Apellidos
+                            </th>
+                            <th>
+                                Fecha Nacimiento
+                            </th>
+                            <th>
+                                Edad
+                            </th>
+                            <th>
+                                Direccion
+                            </th>
+                            <th>
+                                Numero De Contacto
+                            </th>
+                            <th class="cl_actions">
+                                Accion
+                            </th>
+                        </tr>
+                        @if (Model != null && Model.Lista != null)
+                        {
+                            @foreach (var elemento in Model.Lista)
+                            {
+                                <tr>
+                                    <td>
+                                        @elemento.Nombre
+                                    </td>
+                                    <td>
+                                        @elemento.Apellido
+                                    </td>
+                                    <td>
+                                        @elemento.FechaNacimiento
+                                    </td>
+                                    <td>
+                                        @elemento.Edad
+                                    </td>
+                                    <td>
+                                        @elemento.Direccion
+                                    </td>
+                                    <td>
+                                        @elemento.Numero_de_Contacto
+                                    </td>
+                                    <td>
+                                        <input type="submit"
+                                               value="Modicar"
+                                               asp-page-handler="BtModificar"
+                                               class="btn btn-secondary"
+                                               asp-route-data="@elemento.Id" />
+                                        <input type="submit"
+                                               value="Borrar"
+                                               asp-page-handler="BtBorrarVal"
+                                               class="btn btn-secondary"
+                                               asp-route-data="@elemento.Id" />
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </table>
+                </div>
+            }
+        </form>
+    </div>
+</center>
